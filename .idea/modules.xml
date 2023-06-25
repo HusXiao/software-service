@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/business_server_10300/business_server_10300.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/business_server_10300/business_server_10300.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/business_server_10301/business_server_10301.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/business_server_10301/business_server_10301.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/cart_server_10400/cart_server_10400.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/cart_server_10400/cart_server_10400.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/cart_server_10401/cart_server_10401.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/cart_server_10401/cart_server_10401.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/config_server_15000/config_server_15000.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/config_server_15000/config_server_15000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/config_server_15001/config_server_15001.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/config_server_15001/config_server_15001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/deliveryaddress_server_10500/deliveryaddress_server_10500.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/deliveryaddress_server_10500/deliveryaddress_server_10500.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/deliveyaddress_server_10501/deliveyaddress_server_10501.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/deliveyaddress_server_10501/deliveyaddress_server_10501.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/eureka_server_13000/eureka_server_13000.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/eureka_server_13000/eureka_server_13000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/eureka_server_13001/eureka_server_13001.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/eureka_server_13001/eureka_server_13001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/food_server_10200/food_server_10200.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/food_server_10200/food_server_10200.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/food_server_10201/food_server_10201.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/food_server_10201/food_server_10201.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/gateway_server_14000/gateway_server_14000.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/gateway_server_14000/gateway_server_14000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/orders_server_10600/orders_server_10600.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/orders_server_10600/orders_server_10600.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/orders_server_10601/orders_server_10601.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/orders_server_10601/orders_server_10601.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/springcloud_elm.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/springcloud_elm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/user_server_10100/user_server_10100.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/user_server_10100/user_server_10100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-elm/user_server_10101/user_server_10101.iml" filepath="$PROJECT_DIR$/SpringCloud-elm/user_server_10101/user_server_10101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/软件服务工程.iml" filepath="$PROJECT_DIR$/.idea/软件服务工程.iml" />
+    </modules>
+  </component>
+</project>

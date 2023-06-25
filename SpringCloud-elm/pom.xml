@@ -1,0 +1,54 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.example</groupId>
+	<artifactId>cloudtes</artifactId>
+	<version>1.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>19</maven.compiler.source>
+		<maven.compiler.target>19</maven.compiler.target>
+	</properties>
+
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-dependencies</artifactId>
+				<version>3.0.1</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.cloud</groupId>
+				<artifactId>spring-cloud-dependencies</artifactId>
+				<version>2022.0.1</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+
+	<modules>
+		<module>user_server_10100</module>
+		<module>food_server_10200</module>
+		<module>business_server_10300</module>
+		<module>cart_server_10400</module>
+		<module>deliveryaddress_server_10500</module>
+		<module>orders_server_10600</module>
+		<module>eureka_server_13001</module>
+		<module>eureka_server_13000</module>
+		<module>gateway_server_14000</module>
+		<module>user_server_10101</module>
+		<module>config_server_15000</module>
+		<module>config_server_15001</module>
+		<module>food_server_10201</module>
+		<module>business_server_10301</module>
+		<module>cart_server_10401</module>
+		<module>orders_server_10601</module>
+		<module>deliveyaddress_server_10501</module>
+	</modules>
+</project>
